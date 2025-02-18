@@ -55,3 +55,5 @@ Deploy using Flask, FastAPI, or cloud platforms like AWS, Google Cloud, or Azure
 Create an API endpoint that allows real-time predictions.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/69781929-0fb7-48eb-966b-62aa893e5e49)
